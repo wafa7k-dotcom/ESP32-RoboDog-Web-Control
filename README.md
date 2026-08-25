@@ -8,8 +8,7 @@ The original task used one servo motor with `Open` and `Close` buttons. The deve
 
 ## Video Link
 
-[Watch the RoboDog demonstration](PASTE_VIDEO_LINK_HERE)
----
+https://lnkd.in/p/dxVHCGp7
 
 ## Project Overview
 
